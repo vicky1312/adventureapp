@@ -1,0 +1,441 @@
+@font-face {
+    font-family: Medium;
+    src: url('./fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "SemiBold";
+    src: url('./fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Regular";
+    src: url('./fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popmedium";
+    src: url('./fonts/Poppins-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popregular";
+    src: url('./fonts/Poppins-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popsemi";
+    src: url('./fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popbold";
+    src: url('./fonts/Poppins-Bold.ttf') format('truetype');
+}
+.body{
+    width: auto;
+}
+.sec1{
+    padding-top: 3em;
+    display: flex;
+}
+.firstsec1{
+    display: block !important;
+    margin-top: 1em;
+}
+.sechead1{
+    color: #0999AE;
+    font-size: 15px;
+    font-family: 'SemiBold';
+}
+.secheadh3{
+    font-size: 46px;
+    width: 12em;
+    font-weight: 600;
+    margin-top: 0.5em;
+    font-family: 'Popsemi';
+}
+.hotel{
+    color: #0999AE;
+}
+.flight{
+    color: #0999AE;
+}
+.tour{
+    color: #0999AE;
+}
+.checklist{
+    display: flex;
+}
+.lipar{
+    position: relative; top: -1em; left: 1em;
+    font-size: 16px;
+    font-family: 'Regular';
+}
+.check{
+    width: 24px;
+    height: 24px;
+}
+.bod{
+    padding-left: 11%;
+   padding-bottom: 2em;
+   width: auto;
+}
+.sec1img{
+    display: flex;
+    margin-left: 2em;
+}
+.picsecone{
+    display: block !important;
+}
+.picadventone{
+    border-radius: 15px;
+    box-shadow: 0px 0px 7px 0px #0999AE;
+}
+.picadvent2{
+    border-radius: 15px;
+    box-shadow: 0px 0px 7px 0px #0999AE;
+}
+.adventpic2{
+    margin-top: 2em;
+}
+.picadvent3{
+    margin-left: 2em;
+    border-radius: 15px;
+    box-shadow: 0px 0px 7px 0px #0999AE;
+}
+.box{
+    display: flex;
+    border: solid #0999AE 2px;
+    width: 745px;
+    padding: 1.7em;
+    border-radius: 8px;
+    position: relative; bottom: 9em;
+    background-color: #FFFFFF;
+    opacity: 80%;
+}
+.boxpar{
+    margin-left: 1em;
+    font-size: 20px;
+    width: 30em;
+    font-family: 'Popregular';
+}
+.boxbutn{
+    margin-right: 2em;
+    width: 252px;
+    height: 56px;
+    font-size: 18px;
+    background-color: #0999AE;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Semibold';
+}
+.notif{
+    text-align: center;
+    border: solid #FBAE16 1px;
+    background-color: #FFFAEF;
+    border-radius: 8px;
+    position: relative; bottom: 4em;
+    width: 1240px;
+}
+.notificate{
+    color: #0999AE;
+    font-size: 12px;
+    font-family: 'Popsemi';
+}
+.spanpar{
+    margin-left: 3em;
+    font-size: 15px;
+    font-family: 'Popregular';
+}
+.sec2{
+    display: flex;
+    margin-left: 10em;
+}
+.boxes{
+    margin-top: 3em;
+}
+.sec2head{
+    margin-top: -0.5em;
+    margin-bottom: 1em;
+    font-size: 46px;
+    font-family: 'Popmedium';
+}
+.mrk{
+    position: relative; bottom: 3.9em;
+}
+.pinkbox{
+    position: relative; left: 1em;
+}
+.adventpic4{
+    margin-top: 10rem;
+    height: 500px;
+    margin-left: 5em;
+}
+
+.sec3sec{
+    display: flex;
+    margin-left: 1em;
+    margin-top: 3em;
+}
+.sec3cont{
+    display: block;
+    margin-top: 6em;
+}
+.sec3cont2{
+    margin-top: -2.5em;
+}
+.picadvent5{
+    height: 394px;
+}
+.picadvent6{
+    height: 221px;
+    position: relative; bottom: 12em; right: 7em;
+}
+.logobox{
+    position: relative; bottom: 4.3em; right: 1em;
+}
+.boxes2{
+    margin-left: 1em;
+}
+.sec3sec3{
+    margin-top: -10em;
+}
+.sec3h3{
+    text-align: justify;
+    width: 65%;
+    font-size: 46px;
+    font-family: 'Popmedium';
+    margin-top: -0.2em;
+}
+.dash{
+    font-size: 20px;
+    color: #A7A7A7;
+    font-family: 'Popmedium';
+    margin-top: -0.5em;
+}
+.simple{
+    margin-top: -2em;
+}
+.simp{
+    text-decoration: none;
+    color: #FBAE16;
+    font-size: 20px;
+    font-family: 'Popmedium';
+}
+.angle{
+    position: relative; top: 0.2em;
+    height: 20px;
+    font-family: 'Popmedium';
+}
+.sec3head{
+    margin-left: -5em;
+}
+.reach{
+    text-align: center;
+    margin-left: -2em;
+    font-family: 'Popmedium';
+    font-size: 46px;
+}
+.reachpar{
+    text-align: center;
+    margin-top: -2em;
+    margin-left: -4em;
+    font-size: 24px;
+    color: #A7A7A7;
+    font-family: 'Popmedium';
+}
+.num{
+    display: flex;
+    margin-left: 10em;
+    margin-top: -4em;
+}
+.num2{
+    padding-left: 15%;
+}
+.num1par1{
+    font-size: 77px;
+    color: #0999AE;
+    font-family: 'Popsemi';
+}
+.num1par2{
+    color: #FBAE16;
+    font-size: 24px;
+    margin-top: -3.5em;
+    width: 70%;
+    text-align: center;
+    font-family: 'Popmedium';
+}
+.num2par1{
+    font-size: 77px;
+    color: #0999AE;
+    font-family: 'Popsemi';
+}
+.num2par2{
+    color: #FBAE16;
+    font-size: 24px;
+    margin-top: -3.5em;
+    width: 75%;
+    text-align: center;
+    font-family: 'Popmedium';
+}
+.sec4{
+    margin-left: 6em;
+    margin-top: 10em;
+}
+.faqheadpar{
+    display: flex;
+    margin-bottom: 1em;
+}
+.faq{
+    font-size: 31px;
+    color: #0999AE;
+    font-family: 'Popbold';
+}
+.faqhead{
+    margin-left: 4em;
+    position: relative; top: 0.5em;
+    color: #FBAE16;
+    font-family: 'Popmedium';
+    font-size: 22px;
+}
+.questsec{
+    display: flex;
+}
+.questsecpar{
+    font-size: 17.94px;
+    font-family: 'Poppins-Regular';
+}
+.questsec1{
+    width: 38%;
+}
+.questsec2{
+    padding-left: 3em;
+    width: 38%;
+}
+.quest2{
+    margin-top: 2em;
+}
+.parangle{
+    display: flex;
+}
+.angledown{
+    position: relative; left: 2em; top: 0.9em;
+    color: #0999AE;
+    font-size: 21.3px;
+}
+.sec5sec1{
+    display: flex;
+    margin-top: 10em;
+    margin-left: 2em;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFF7E8;
+    width:74em;
+}
+.picadvent7{
+    height: 350px;
+}
+.info{
+    margin-left: 7em;
+    margin-top: 0.5em;
+    display: block;
+}
+.infoh3{
+    font-size: 30px;
+    font-family: 'Popregular';
+    width: 405px;
+}
+.infopar{
+    margin-top: -1.5em;
+    margin-bottom: 2em;
+    text-align: justify;
+    font-size: 12px;
+    width: 60%;
+    color: #868484;
+    font-family: 'Popregular';
+}
+input{
+    width: 37em;
+    padding: 1em;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+    font-family: 'Popmedium';
+    color: #868484;
+}
+.infobutn{
+    margin-top: 1em;
+    width: 44em;
+    padding: 1em;
+    border-radius: 8px;
+    border: none;
+    background-color: #FBAE16;
+    cursor: pointer;
+}
+.infolink{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'SemiBold';
+}
+.sec5sec2{
+    display: flex;
+    margin-top: 10em;
+    background-color: #0999AE;
+    padding: 3em;
+    justify-content: center;
+}
+.regcont{
+    color: #FFFFFF;
+}
+.regh3{
+    font-size: 30px;
+    font-family: 'Medium';
+}
+.regpar{
+    margin-top: -1.5em;
+    font-size: 15px;
+    font-family: 'Regular';
+}
+.regbutns{
+    margin-top: 2em;
+    margin-left: 5em;
+}
+.regbutn1{
+    width: 9em;
+    padding: 1em;
+    background-color: transparent;
+    cursor: pointer;
+    border: solid #FFFFFF 1px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'SemiBold';
+}
+.regbutn2{
+    margin-left: 1em;
+    width: 9em;
+    padding: 1em;
+    border: none;
+    background-color: #FFF7E8;
+    color: #FBAE16;
+    border-radius: 8px;
+    font-size: 18px;
+    font-family: 'SemiBold';
+}
+@media (max-width:1500px){
+    .bod{
+        padding-left: 1em ;
+    }
+    .sec3cont{
+        margin-top: 3em;
+    }
+    .sec3head{
+        margin-left: 2em;
+    }
+    .questsec1{
+        width: 45%;
+    }
+    .questsec2{
+        width: 45%;
+    }
+    .picadventone{
+        
+    }
+}

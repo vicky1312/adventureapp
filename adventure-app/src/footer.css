@@ -1,0 +1,115 @@
+@font-face {
+    font-family: Medium;
+    src: url('./fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "SemiBold";
+    src: url('./fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Regular";
+    src: url('./fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popmedium";
+    src: url('./fonts/Poppins-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popregular";
+    src: url('./fonts/Poppins-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popsemi";
+    src: url('./fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popbold";
+    src: url('./fonts/Poppins-Bold.ttf') format('truetype');
+}
+.foot{
+    background-color: #FFF7E8;
+    padding: 5em;
+}
+.footsec{
+    display: flex;
+    margin-left: 2em;
+}
+.footlogo{
+    width: 220px;
+}
+.footsecpar1{
+    margin-top: 2em;
+    width: 18em;
+    font-size: 18px;
+    font-family: 'Regular';
+    color: #242424;
+}
+.footsecpar2{
+    width: 14em;
+    font-size: 18px;
+    margin-top: 2em;
+    color: #242424;
+    font-family: 'Regular';
+}
+.socials{
+    margin-top: 1.5em;
+}
+.soc{
+    margin-left: 2em;
+}
+.footsec2{
+    margin-left: 7em;
+    margin-top: -2em
+}
+.footsec2lnks{
+    display: inline-block !important;
+}
+.lnks1{
+    text-decoration: none;
+    cursor: pointer;
+    color: #242424;
+    font-family: Medium;
+    font-size: 18px;
+}
+.lnks2{
+    text-decoration: none;
+    cursor: pointer;
+    color: #242424;
+    font-family: 'Medium';
+    font-size: 18px;
+}
+.lnks{
+    margin-top: 1.5em;
+}
+.footh4{
+    font-size: 20px;
+    color: #868484;
+    font-family: 'Regular';
+}
+.footsec3{
+    margin-top: -2em;
+    margin-left: 6.5em;
+}
+.footpar5{
+    width: 14em;
+    color: #242424;
+    font-family: 'Medium';
+    font-size: 18px;
+}
+.footpar6{
+    margin-top: 3.5em;
+}
+.footpar4{
+    color: #242424;
+    font-family: 'Medium';
+    font-size: 18px;
+}
+.footh{
+    font-size: 20px;
+    color: #868484;
+    font-family: 'Regular';
+}
+.footsec4{
+    margin-left: 5em;
+    margin-top: -2em   
+}

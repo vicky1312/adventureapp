@@ -1,0 +1,89 @@
+@font-face {
+    font-family: Medium;
+    src: url('./fonts/Inter-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "SemiBold";
+    src: url('./fonts/Inter-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Regular";
+    src: url('./fonts/Inter-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popmedium";
+    src: url('./fonts/Poppins-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popregular";
+    src: url('./fonts/Poppins-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popsemi";
+    src: url('./fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: "Popbold";
+    src: url('./fonts/Poppins-Bold.ttf') format('truetype');
+}
+.head{
+    display: flex;
+    padding: 1.5em;
+    border-bottom: solid 1.5px gray;
+}
+.logo{
+    display: flex;
+    margin-left: 8em;
+}
+button{
+    cursor: pointer;
+}
+.logoimg{
+    width: 240px;
+    height: 40px;
+    border-right: solid gray 2px;
+    padding-right: 0.7em;
+    padding-bottom: 0.8em;
+}
+.ven{
+    margin-left: 1em;
+    color:#0999AE;
+    font-size: 10px;
+    font-family: 'Popmedium';
+    margin-top: 2em;
+}
+.right{
+    display: flex;
+    position: absolute;
+    left: 67%;
+    
+}
+.navbutn{
+    margin-left: 2.5em;
+    border: solid #0999AE 1.5px;
+    border-radius: 8px;
+    color: #0999AE;
+    background-color: #FFFFFF;
+    box-shadow: 0.5px 0.5px 1.5px 0.2px #0999AE ;
+    font-size: 17px;
+    font-family: 'SemiBold';
+    width: 107px;
+    height: 56px;
+}
+.navpar{
+    font-size: 15px;
+    font-family: 'popmedium';
+    cursor: pointer;
+}
+.question{
+    margin-left: 2em;
+    width: 26.67px;
+    height: 26.67px;
+    margin-top: 0.7em;
+    cursor: pointer;
+}
+@media (max-width:1500px){
+    .logo{
+        margin-left: 1em;
+    }
+}
